@@ -1,3 +1,0 @@
-# .github
-
-# DRONE TEEEEEECH
